@@ -73,7 +73,4 @@ The system addresses multiple threat vectors without requiring payload decryptio
 ---
 
 ## Repository Structure
-*   `/ai_ids_model`: Contains the TensorFlow/Keras implementation of the hybrid CNN-LSTM architecture and data preprocessing scripts for Min-Max scaling.
-*   `/crypto_module`: Python scripts executing the ECDH session initialization, parameter consensus, and HKDF-SHA256 key extraction.
-*   `/ns3_simulations`: Network simulation configurations mapping vehicular mobility and link-state dynamics across 5.9 GHz, 28 GHz, and 400-800 THz spectrums.
 *   `/docs`: System architecture flowcharts, mathematical performance graphs, and evaluation logs.
